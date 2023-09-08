@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "exception": "cpp",
+        "ostream": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground":  "#150038",
+        "activityBar.foreground": "#04c117",
+        "activityBar.background": "#00000088",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#d0dc20",
+        "sideBar.background": "#150038"
+        ,"sideBar.foreground": "#ddff00",
+        // "terminal.background": "#062e3353",
+        "terminal.foreground": "#b3ff00",
+        "terminal.dropBackground": "#ff0000",
+        "terminalCursor.foreground": "#37177b",
+        "terminal.border": "#000000",
+        "terminalCommandDecoration.defaultBackground": "#ff0000",
+        "terminal.selectionBackground": "#00ff66",
+        "terminal.selectionForeground": "#000000",
+        "terminal.tab.activeBorder": "#ff0000",
+        
+    }
+
+}
